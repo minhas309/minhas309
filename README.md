@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhas309&show_icons=true&locale=en" alt="minhas309" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhas309&" alt="minhas309" /></p>
+
+
+
+[![An image of @minhas309's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhas309)](https://holopin.io/@minhas309)
